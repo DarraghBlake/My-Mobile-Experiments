@@ -33,7 +33,7 @@ Working alongside Sean Allen, GitHub Followers is a programmatically created app
 ![Lottie](https://img.shields.io/badge/Libraries-Lottie-red)
 ![Programmatic](https://img.shields.io/badge/Build-Programmatic-green)
 
-Working with the amazing Lottie library, it was great fun creating an example of a simple App Introduction story. 
+Working with the amazing Lottie library, it was great fun creating an example of a simple [App Introduction](https://github.com/Blakey47/App-Introcution-Story) story. 
 
 ![1](https://user-images.githubusercontent.com/6439751/72733328-8969dd00-3b8f-11ea-9928-083960d4a386.gif)
 ![2](https://user-images.githubusercontent.com/6439751/72733327-8969dd00-3b8f-11ea-8239-543092705cc7.gif)
