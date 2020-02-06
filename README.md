@@ -1,4 +1,8 @@
-# Resume
+## Brief About Me
+
+Since beginning my coding journey over 6 years ago, I've dabbled in various tech stacks in an attempt to discover what appeals to me the most. In 2017 I discovered this to be iOS Development, causing my passion for iOS App creation to explode and I immediately decided to attend an iOS Bootcamp which was a fantastic experience.
+
+I'm constantly trying to discover interesting challenges that I can attempt to tackle with a creative twist.
 
 ## The Coin Tracker
 
@@ -13,19 +17,6 @@ Though this app is simple, I did thoroughly enjoy working on and I am proud of U
 
 <img width="281" alt="Screenshot at Dec 16 19-43-46" src="https://user-images.githubusercontent.com/6439751/70937642-89306c00-203c-11ea-8cea-0814558be78c.png"> ![Screenshot at Jan 13 10-17-20](https://user-images.githubusercontent.com/6439751/72247958-f14b8100-35ed-11ea-9c1b-44dff75c8d49.png) <img width="287" alt="Screenshot at Dec 16 19-44-47" src="https://user-images.githubusercontent.com/6439751/70937662-9188a700-203c-11ea-9d00-7a6b96a44196.png">
 
-## GitHub Followers
-
-![iOS 13.0+](https://img.shields.io/badge/iOS-13.0%2B-blue)
-![Swift 5.0+](https://img.shields.io/badge/Swift-5.0%2B-orange)
-![None](https://img.shields.io/badge/Libraries-None-red)
-![Programmatic](https://img.shields.io/badge/Build-Programmatic-green)
-
-Working alongside Sean Allen, GitHub Followers is a programmatically created app that targets the GitHub User endpoint
-
-![Screenshot at Jan 13 10-07-13](https://user-images.githubusercontent.com/6439751/72247311-851c4d80-35ec-11ea-9188-fb07c9fe7585.png)
-![Screenshot at Jan 13 10-06-56](https://user-images.githubusercontent.com/6439751/72247312-851c4d80-35ec-11ea-8b44-92d54d96eecb.png)
-![Screenshot at Jan 13 10-06-40](https://user-images.githubusercontent.com/6439751/72247313-851c4d80-35ec-11ea-8a4d-50897214f0fb.png)
-
 ## App Introduction
 
 ![iOS 13.0+](https://img.shields.io/badge/iOS-13.0%2B-blue)
@@ -38,3 +29,20 @@ Working with the amazing Lottie library, it was great fun creating an example of
 ![1](https://user-images.githubusercontent.com/6439751/72733328-8969dd00-3b8f-11ea-9928-083960d4a386.gif)
 ![2](https://user-images.githubusercontent.com/6439751/72733327-8969dd00-3b8f-11ea-8239-543092705cc7.gif)
 ![3](https://user-images.githubusercontent.com/6439751/72733326-8969dd00-3b8f-11ea-8b06-0c87a36b6dde.gif)
+
+## GitHub Followers
+
+![iOS 13.0+](https://img.shields.io/badge/iOS-13.0%2B-blue)
+![Swift 5.0+](https://img.shields.io/badge/Swift-5.0%2B-orange)
+![None](https://img.shields.io/badge/Libraries-None-red)
+![Programmatic](https://img.shields.io/badge/Build-Programmatic-green)
+
+Working alongside Sean Allen, GitHub Followers is a programmatically created app that targets the GitHub User endpoint
+
+Course Instructor: [Sean Allen](seanallen.co)
+
+![Screenshot at Jan 13 10-07-13](https://user-images.githubusercontent.com/6439751/72247311-851c4d80-35ec-11ea-9188-fb07c9fe7585.png)
+![Screenshot at Jan 13 10-06-56](https://user-images.githubusercontent.com/6439751/72247312-851c4d80-35ec-11ea-8b44-92d54d96eecb.png)
+![Screenshot at Jan 13 10-06-40](https://user-images.githubusercontent.com/6439751/72247313-851c4d80-35ec-11ea-8a4d-50897214f0fb.png)
+
+
