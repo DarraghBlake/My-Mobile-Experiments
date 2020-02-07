@@ -56,8 +56,9 @@ Working alongside Sean Allen, GitHub Followers is a programmatically created app
 
 Course Instructor: [Sean Allen](seanallen.co)
 
-![Screenshot at Jan 13 10-07-13](https://user-images.githubusercontent.com/6439751/72247311-851c4d80-35ec-11ea-9188-fb07c9fe7585.png)
 ![Screenshot at Jan 13 10-06-56](https://user-images.githubusercontent.com/6439751/72247312-851c4d80-35ec-11ea-8b44-92d54d96eecb.png)
-![Screenshot at Jan 13 10-06-40](https://user-images.githubusercontent.com/6439751/72247313-851c4d80-35ec-11ea-8a4d-50897214f0fb.png)
+![Screenshot at Feb 07 00-11-07](https://user-images.githubusercontent.com/6439751/73989636-633d8e80-493e-11ea-80f3-c7bcb0b2e085.png)
+![Screenshot at Feb 07 00-10-04](https://user-images.githubusercontent.com/6439751/73989639-65075200-493e-11ea-91f3-a428e2c8e107.png)
+
 
 
