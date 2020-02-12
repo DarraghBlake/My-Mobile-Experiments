@@ -10,7 +10,7 @@ I'm constantly trying to discover interesting challenges that I can attempt to t
 ![Swift 5.0+](https://img.shields.io/badge/Swift-5.0%2B-orange)
 ![None](https://img.shields.io/badge/Libraries-None-red)
 ![Combination](https://img.shields.io/badge/Build-Combination-green)
-![Pre-Alpha](https://img.shields.io/badge/Stage-Pre--Alpha-yellow)
+![Alpha](https://img.shields.io/badge/Stage-Alpha-yellow)
 
 The Event Countdown app is still in pre-alpha stages with design constantly changing. I initially came up with the idea after attempting to find a good Countdown app that was visually appealing, which I could not, and so I decided this would be my next project.
 
