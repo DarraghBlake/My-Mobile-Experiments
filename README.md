@@ -4,7 +4,7 @@ Since beginning my coding journey over 6 years ago, I've dabbled in various tech
 
 I'm constantly trying to discover interesting challenges that I can attempt to tackle with a creative twist.
 
-## Event Countdown
+## My Event - Countdown
 
 ![iOS 13.0+](https://img.shields.io/badge/iOS-13.0%2B-blue)
 ![Swift 5.0+](https://img.shields.io/badge/Swift-5.0%2B-orange)
@@ -12,7 +12,7 @@ I'm constantly trying to discover interesting challenges that I can attempt to t
 ![Combination](https://img.shields.io/badge/Build-Combination-green)
 ![On The App Store](https://img.shields.io/badge/Stage-On%20The%20App%20Store-yellow)
 
-The Event Countdown app is still in pre-alpha stages with design constantly changing. I initially came up with the idea after attempting to find a good Countdown app that was visually appealing, which I could not, and so I decided this would be my next project.
+A beautifully simple Events app designed entirely to create wonderful looking moments that you can look forward to and remember. I've built this app with a combination of Storyboard and Programmatically, something I found incredibly fun. My Event - Countdown uses no libraries and build entirely using custom code.
 
 The App is currently on the App Store and can be found [here](https://apps.apple.com/us/app/my-events-countdown/id1499349723?ls=1).
 
