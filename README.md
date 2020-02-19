@@ -26,7 +26,7 @@ The App is currently on the App Store and can be found [here](https://apps.apple
 ![None](https://img.shields.io/badge/Libraries-None-red)
 ![Storyboard](https://img.shields.io/badge/Build-Storyboard-green)
 
-The Coin Tracker was an app that I wanted to create that tracks Bitcoin pricing as the API endpoint I was working with had a lot of nested objects that I wanted to learn more about. The App is rather simple, but it did provide me the opportunity to work with a lot of small labels in a dense proximity.
+[The Coin Tracker](https://github.com/Blakey47/The-Coin-Tracker) was an app that I wanted to create that tracks Bitcoin pricing as the API endpoint I was working with had a lot of nested objects that I wanted to learn more about. The App is rather simple, but it did provide me the opportunity to work with a lot of small labels in a dense proximity.
 
 Though this app is simple, I did thoroughly enjoy working on and I am proud of UI Design and the Animation for the UIPickerView. The Coin Tracker is built with Xcode and Swift 5. It makes extensive use of Auto Layout for the UI Design.
 
