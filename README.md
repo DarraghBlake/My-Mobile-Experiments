@@ -1,8 +1,8 @@
 ## Brief About Me
 
-Since beginning my coding journey over 6 years ago, I've dabbled in various tech stacks in an attempt to discover what appeals to me the most. In 2017 I discovered this to be iOS Development, causing my passion for iOS App creation to explode and I immediately decided to attend an iOS Bootcamp which was a fantastic experience.
+Extremely hard-working, self-motivated and driven individual with a passion for iOS Development. Having gotten into iOS Development back in late 2016, I've constantly striven to learn more and take on interesting challenges with a creative twist.
 
-I'm constantly trying to discover interesting challenges that I can attempt to tackle with a creative twist.
+With a keen eye for detail, I always aim to build the most functional and visually appealing product that I can - putting in considerable time for both system and visual design.
 
 ## My Event - Countdown
 
