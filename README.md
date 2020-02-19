@@ -12,7 +12,7 @@ With a keen eye for detail, I always aim to build the most functional and visual
 ![Combination](https://img.shields.io/badge/Build-Combination-green)
 ![On The App Store](https://img.shields.io/badge/Stage-On%20The%20App%20Store-yellow)
 
-A beautifully simple Events app designed entirely to create wonderful looking moments that you can look forward to and remember. I've built this app with a combination of Storyboard and Programmatically, something I found incredibly fun. My Event - Countdown uses no libraries and build entirely using custom code.
+[My Events - Countdown](https://github.com/Blakey47/Event-Countdown) is a beautifully simple Events app designed entirely to create wonderful looking moments that you can look forward to and remember. I've built this app with a combination of Storyboard and Programmatically, something I found incredibly fun. My Event - Countdown uses no libraries and build entirely using custom code.
 
 The App is currently on the App Store and can be found [here](https://apps.apple.com/us/app/my-events-countdown/id1499349723?ls=1).
 
@@ -39,7 +39,9 @@ Though this app is simple, I did thoroughly enjoy working on and I am proud of U
 ![Lottie](https://img.shields.io/badge/Libraries-Lottie-red)
 ![Programmatic](https://img.shields.io/badge/Build-Programmatic-green)
 
-Working with the amazing Lottie library, it was great fun creating an example of a simple [App Introduction](https://github.com/Blakey47/App-Introcution-Story) story. 
+Working with the amazing Lottie library, it was great fun creating an example of a simple [App Introduction](https://github.com/Blakey47/App-Introcution-Story) story. Focusing mainly on my visual design skills, building this rather straight forward app programmatically provided me great insight into a users journey through an intro story via my research to get this just right.
+
+I found the paging controls the greatest challenge in implementing this introduction journey but I was extremely happy with the overall result.
 
 ![1](https://user-images.githubusercontent.com/6439751/72733328-8969dd00-3b8f-11ea-9928-083960d4a386.gif)
 ![2](https://user-images.githubusercontent.com/6439751/72733327-8969dd00-3b8f-11ea-8239-543092705cc7.gif)
@@ -52,7 +54,7 @@ Working with the amazing Lottie library, it was great fun creating an example of
 ![None](https://img.shields.io/badge/Libraries-None-red)
 ![Programmatic](https://img.shields.io/badge/Build-Programmatic-green)
 
-Working alongside Sean Allen, GitHub Followers is a programmatically created app that targets the GitHub User endpoint
+Using the GitHub endpoint, I've had the pleasure of learning from Sean Allen building the [GitHub Followers](https://github.com/Blakey47/GitHubFollowers) app programmatically in a take home project format. 
 
 Course Instructor: [Sean Allen](seanallen.co)
 
