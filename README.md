@@ -49,6 +49,23 @@ I found the paging controls the greatest challenge in implementing this introduc
 ![2](https://user-images.githubusercontent.com/6439751/72733327-8969dd00-3b8f-11ea-8239-543092705cc7.gif)
 ![3](https://user-images.githubusercontent.com/6439751/72733326-8969dd00-3b8f-11ea-8b06-0c87a36b6dde.gif)
 
+## Note Pal
+
+![iOS 10.0+](https://img.shields.io/badge/iOS-10.0%2B-blue)
+![Swift 3.0+](https://img.shields.io/badge/Swift-3.0%2B-orange)
+![DateTimePicker](https://img.shields.io/badge/Libraries-DateTimePicker-red)
+![Programmatic](https://img.shields.io/badge/Build-Programmatic-green)
+
+
+[Note Pal](https://github.com/Blakey47/Note-Pal) was an app that I had originally designed and worked on as part of the CareerFoundry bootcamp back in 2017. I was the sole desginer and devloper of this to-do list app which I do plan on bringing up to current standards and releasing onto the app store.
+
+This app was the first project I worked on that contained Core Data so it was super interesting implementing it but also the largest challenge of the project.
+
+![Screenshot at Feb 19 22-26-07](https://user-images.githubusercontent.com/6439751/74882584-41450280-5367-11ea-9747-80715a5dfaa3.png)
+![Screenshot at Feb 19 22-27-38](https://user-images.githubusercontent.com/6439751/74882581-40ac6c00-5367-11ea-801e-600158c47619.png)
+![Screenshot at Feb 19 22-28-09](https://user-images.githubusercontent.com/6439751/74882580-3f7b3f00-5367-11ea-9827-1a7e2c4a75d1.png)
+
+
 ## GitHub Followers
 
 ![iOS 13.0+](https://img.shields.io/badge/iOS-13.0%2B-blue)
