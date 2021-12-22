@@ -1,9 +1,3 @@
-## Brief About Me
-
-Extremely hard-working, self-motivated and driven individual with a passion for iOS Development. Having gotten into iOS Development back in late 2016, I've constantly striven to learn more and take on interesting challenges with a creative twist.
-
-With a keen eye for detail, I always aim to build the most functional and visually appealing product that I can - putting in considerable time for both system and visual design.
-
 ## My Event - Countdown
 
 ![iOS 13.0+](https://img.shields.io/badge/iOS-13.0%2B-blue)
